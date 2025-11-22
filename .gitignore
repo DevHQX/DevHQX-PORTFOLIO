@@ -1,0 +1,44 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node modules (if you add React later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Optional: Exclude large Framer assets if repository gets too large
+# Uncomment if you want to exclude CDN assets (they're already on Framer's CDN)
+# framerusercontent.com/
+# app.framerstatic.com/
+# fonts.googleapis.com/
+# fonts.gstatic.com/
+
+

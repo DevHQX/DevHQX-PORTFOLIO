@@ -1,0 +1,8 @@
+/*
+ * Add (material-icons/Add@0.0.32)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/eSgt4Zw62N3aorYUuW7a/NBKhCNbBNaxGEb16eCe3/Add.js"
+export { default } from "https://framerusercontent.com/modules/eSgt4Zw62N3aorYUuW7a/NBKhCNbBNaxGEb16eCe3/Add.js"
